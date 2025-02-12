@@ -1,0 +1,27 @@
+{
+  "name": "currency-converter-tool",
+  "version": "1.0.0",
+  "description": "npm package to convert the currency",
+  "keywords": [
+    "npm"
+  ],
+  "homepage": "https://github.com/nithincode-s/currency-converter-tool#readme",
+  "bugs": {
+    "url": "https://github.com/nithincode-s/currency-converter-tool/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nithincode-s/currency-converter-tool.git"
+  },
+  "license": "Apache-2.0",
+  "author": "Nithin Reddy I",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1",
+    "dotenv": "^16.4.7"
+  }
+}
