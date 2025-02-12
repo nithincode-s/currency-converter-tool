@@ -1,5 +1,5 @@
 {
-  "name": "@ind/currency-converter-tool",
+  "name": "ind-currency-converter-tool",
   "version": "1.0.0",
   "description": "npm package to convert the currency",
   "keywords": [
